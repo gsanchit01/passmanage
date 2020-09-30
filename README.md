@@ -12,3 +12,6 @@ Steps to Run Program -
 3. Keep these file on same directory
 4. Open main.c in Compiler
 5. Run the file.
+
+Hope this helped you and taught you a new concept. <br>
+Please consider giving a star to this repository.
