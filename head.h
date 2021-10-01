@@ -23,13 +23,13 @@ int chk_ml(char str[])
    {system("color f2");
    return 1;
    }
-   else{system("color f4");
+   else{   
+	system("color f4");
    	printf("\tInvalid Email");
    return 0;
    }
 }
-else{
-system("color f4");
+else{system("color f4");
 printf("\tInvalid Email");
 return 0;
 }}
@@ -42,6 +42,6 @@ void pr_s(void)
 }
 
 void source(void)
-{	system("del data.txt");
-	rename("data2.txt","data.txt");
-	}
+{system("del data.txt");
+rename("data2.txt","data.txt");
+}
