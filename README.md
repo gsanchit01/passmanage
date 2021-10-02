@@ -11,4 +11,6 @@ Steps to Run Program -
 2. Download main.c and head.h file
 3. Keep these file on same directory
 4. Open main.c in Compiler
-5. Run the file.
+5. follow the above steps
+6. 
+7. Run the file.
