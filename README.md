@@ -12,5 +12,4 @@ Steps to Run Program -
 3. Keep these file on same directory
 4. Open main.c in Compiler
 5. follow the above steps
-6. 
-7. Run the file.
+6. Run the file.
