@@ -14,3 +14,7 @@ Steps to Run Program -
 5. follow the above steps
 6. 
 7. Run the file.
+follow the above procedure:-
+
+
+
