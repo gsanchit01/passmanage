@@ -14,3 +14,4 @@ Steps to Run Program -
 3. Keep these file on same directory
 4. Open main.c in Compiler
 5. Run the file.
+followed the steps
