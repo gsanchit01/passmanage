@@ -14,8 +14,10 @@ struct user {
 
 int main()
 {
+	
 	int z, i, e, b, d, m, y, n, r, pos, x = 0;
 	char ch, c, us[20], ps[20], em[40];
+	
 
 	FILE *fp = fopen("data.txt", "a");
 	if (fp == NULL) {
@@ -24,7 +26,9 @@ int main()
 		fclose(fp);
 	} else {
 		here: fp = fopen("data.txt", "a");
+		
 		system("color 1E");
+		
 		printf("\n\n\t\t\t\t\t\tWelcome to program\n\t\t\t\t\t\t\t\t\tMade by- Sanchit Gupta\n\n");
 		pr_s();
 		printf("\n\n\t1. Show All Data\n\t2. Register\n\t3. Login\n\t4. Exit\n\n     Enter Your Choice: ");
