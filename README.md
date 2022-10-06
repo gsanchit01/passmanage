@@ -1,13 +1,13 @@
 # passmanage
 Password Management system
 # Important Instructions-
-1. You have to install a Cpp Compiler Like Dev C++.
+1. You have to install a Cpp Compiler like Dev C++.
 2. Keep main.c and head.h file on same directory.
-3. DO NOT DELETE any file on the parent or child directory.
+3. DO NOT DELETE any file from the parent or child directory.
 # Steps to Follow -
-1. Install  a  C++  Compiler  on  your  Machine
+1. Install  a latest version of  C++  Compiler  on  your  Machine
 2. Download main.c and head.h file
 3. Keep these file on same directory
 4. Open main.c in Compiler
 5. Run the file.
-followed the steps
+followed the above steps for better understanding
