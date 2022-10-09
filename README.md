@@ -1,4 +1,4 @@
-# passmanage
+# Passmanage
 Password Management system
 
 # Important Instructions-
