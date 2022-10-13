@@ -1,5 +1,5 @@
 # Passmanage
-Password Management system
+Password Management System
 
 # Important Instructions-
 1. You have to install a Cpp Compiler like Dev C++. 
