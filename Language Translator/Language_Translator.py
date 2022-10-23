@@ -1,6 +1,7 @@
 from tkinter import *
 from textblob import TextBlob
 from tkinter.ttk import Combobox
+import math
 
 root = Tk()
 root.geometry('500x400')

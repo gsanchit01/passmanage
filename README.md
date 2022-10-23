@@ -16,5 +16,5 @@ Password Management System
 3. Keep these file on same directory
 4. Open main.c in Compiler
 5. Run the file.
+followed the above steps for better understanding of project.
 
-*Followed the above steps for better understanding*
