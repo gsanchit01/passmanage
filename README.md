@@ -2,7 +2,7 @@
 Password Management System
 
 # Important Instructions-
-1. You have to install a Cpp Compiler like Dev C++. 
+1. You have to install a Cpp compiler like Dev C++. 
 
    Dev cpp link: https://sourceforge.net/projects/orwelldevcpp/
 
@@ -11,10 +11,10 @@ Password Management System
 
 # Steps to Follow
 
-1. Install  a latest version of  C++  Compiler  on  your  Machine
-2. Download main.c and head.h file
-3. Keep these file on same directory
-4. Open main.c in Compiler
+1. Install  a latest version of  C++ compiler on your machine
+2. Download main.c and head.h file.
+3. Keep these file on same directory.
+4. Open main.c in compiler.
 5. Run the file.
-followed the above steps for better understanding of project.
+follow the above steps for better understanding of the mentioned project.
 
