@@ -2,7 +2,7 @@
 Password Management System
 
 # Important Instructions-
-1. You have to install a Cpp compiler like Dev C++. 
+1. You have to install a Cpp Compiler like Dev C++ in your machine .or do follow the below link: 
 
    Dev cpp link: https://sourceforge.net/projects/orwelldevcpp/
 
