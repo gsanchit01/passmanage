@@ -6,15 +6,15 @@ Password Management System
 
    Dev cpp link: https://sourceforge.net/projects/orwelldevcpp/
 
-2. Keep main.c and head.h file on same directory.
+2. Keep main.c and head.h file on same directory to avoid any error .
 3. **DO NOT DELETE** any file from the parent or child directory.
 
 # Steps to Follow
 
-1. Install  a latest version of  C++  Compiler  on  your  Machine
-2. Download main.c and head.h file
-3. Keep these file on same directory
-4. Open main.c in Compiler
+1. Install  a latest version of  C++ compiler on your machine
+2. Download main.c and head.h file.
+3. Keep these file on same directory.
+4. Open main.c in compiler.
 5. Run the file.
-followed the above steps for better understanding of project.
+follow the above steps for better understanding of the mentioned project.
 
