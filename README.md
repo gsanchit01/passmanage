@@ -6,7 +6,7 @@ Password Management System
 
    Dev cpp link: https://sourceforge.net/projects/orwelldevcpp/
 
-2. Keep main.c and head.h file on same directory.
+2. Keep main.c and head.h file on same directory to avoid any error .
 3. **DO NOT DELETE** any file from the parent or child directory.
 
 # Steps to Follow
